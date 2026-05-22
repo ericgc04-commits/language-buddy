@@ -2,7 +2,7 @@
 ### Java-Powered Vocabulary Learning Chatbot
 > York St John University — Dissertation Project  
 > **Eric González Ceballos** · Student Number: 250158429
-
+GitHub Link: https://github.com/ericgc04-commits/language-buddy.git
 ---
 
 ## 🚀 Quick Start
